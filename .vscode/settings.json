@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "stm32f446re_gpio_driver.h": "c",
+        "stm32f446re_spi_driver.h": "c"
+    }
+}

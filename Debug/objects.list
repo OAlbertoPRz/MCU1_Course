@@ -1,0 +1,4 @@
+"Src/006spi_tx_testing.o"
+"Startup/startup_stm32f446retx.o"
+"drivers/Src/STM32F446RE_SPI_Driver.o"
+"drivers/Src/STM32F446RE_gpio_driver.o"
